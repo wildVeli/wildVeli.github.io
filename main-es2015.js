@@ -30,7 +30,7 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div id=\"about\">\n  <p id=\"bigHi\">Hi!</p>\n  <p>Hi hi! This is intended to be an index web for the GitHub projects.\n  Just an idea to see the projects of GitHub in different way and\n   do some web, this is one my first proyects after Angular site apps so feel free to criticize so I can make a better job.\n    It's open source, so feel free to fork and use if you want to.</p>\n <p>You can visit my GitHub directly here: <a href=\"https://github.com/wildVeli\" target=\"_blank\">https://github.com/wildVeli</a></p>\n</div>"
+module.exports = "<div id=\"about\">\n  <p id=\"bigHi\">Hi!</p>\n  <p>Hi hi! This is intended to be an index web for the GitHub projects.\n  Just an idea to see the projects of GitHub in a different way and\n   do some web. This is one my first projects after Angular site apps, so feel free to criticize so I can make a better job.</p>\n <p>You can visit my GitHub directly here: <a href=\"https://github.com/wildVeli\" target=\"_blank\">https://github.com/wildVeli</a></p>\n</div>"
 
 /***/ }),
 
@@ -255,7 +255,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PROJECTS", function() { return PROJECTS; });
 const PROJECTS = [
     { name: 'RepartidoresWebAplication', images: ['RepartidoresWebAplication1.PNG', 'RepartidoresWebAplication2.PNG', 'RepartidoresWebAplication3.PNG'], description: "This is a java server made for GestionRepartidores client," +
-            "it uses a REST API system for exchange data with the client side", link: "https://github.com/wildVeli/RepartidoresWebAplication" },
+            "it uses a REST API system for exchange data with the client side " + ". Made in netbeans hosted using GlasshFish", link: "https://github.com/wildVeli/RepartidoresWebAplication" },
     { name: 'javaFXPortsAndroid', images: ['JavaFxPortsAndroid1.PNG'], description: "Basic javaFXPorts set up in NetBeans with graadle plugin." +
             " This set up is to set up without the Gluon plugin", link: "https://github.com/wildVeli/javaFXPortsAndroid" },
     { name: 'PMDTimeApp', images: ['PMDTimeApp1.png', 'PMDTimeApp3.png', 'PMDTimeApp4.png', 'PMDTimeApp5.png'], description: "Android native simple app about managing time, based on pomodoro technique",
